@@ -1,0 +1,16 @@
+.Ekka {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+#Pehli {
+    color: blue;
+    font-size: 36 px;
+}
+#Doji {
+    background: lightgreen;
+    font-size: 24 px;
+    font-weight: bold;
+}
+.Special {
+    font-size: 24 px;
+}
